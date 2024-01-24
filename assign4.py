@@ -1,9 +1,6 @@
 """
 
 Maharshii Patel
-251353283
-mpate588
-December 8, 2023,
 This file includes 4 objects and 2 functions. The first object is a product which has the parameters of product name,
 price, and category. The second object is an inventory, which keeps track of all products and their quantities and also
 their prices. The third object is the shopping cart which is what the customer has. You can see what's in the cart and
